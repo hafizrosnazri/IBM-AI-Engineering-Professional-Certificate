@@ -1,4 +1,5 @@
 # Deep Neural Networks with PyTorch by [IBM]
+Candidate's Name: MUHAMMAD HAFIZUDDIN BIN ROSNAZRI
 
 ## About this course
 
