@@ -1,3 +1,2 @@
-<p align="center">
-    #Deep Neural Networks with PyTorch
-</p>
+# Deep Neural Networks with PyTorch
+## By IBM
