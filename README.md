@@ -1,3 +1,4 @@
+<span class="anim-fade-in"><%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %> Hello from GitHub!</span>
 # Professional-Certification-IBM-AI-Engineering
 
 ![](https://github.com/HafizRosnazri/Professional-Certification-IBM-AI-Engineering/blob/master/Images/Logo/Coursera-Logo.png =250x250)
