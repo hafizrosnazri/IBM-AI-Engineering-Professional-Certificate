@@ -1,6 +1,6 @@
 # Professional-Certification-IBM-AI-Engineering
 
-![Coursera](https://raw.githubusercontent.com/HafizRosnazri/Professional-Certification-IBM-AI-Engineering/master/Images/Logo/Coursera-Logo.png)
+![Coursera](Images/Coursera-Logo.png)
 > This is a ReadMe template to help save you time and effort.
 
 ---
