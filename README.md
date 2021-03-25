@@ -1,6 +1,6 @@
 # Professional-Certification-IBM-AI-Engineering
 
-![Coursera](Images/Coursera-Logo.png)
+![Coursera](Images/Logo/Coursera-Logo.png)
 > This is a ReadMe template to help save you time and effort.
 
 ---
