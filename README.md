@@ -34,9 +34,9 @@ Throughout the program, you will build a portfolio of projects demonstrating you
 |    6   | AI Capstone Project with Deep Learning                        |
 
 ## Instructors
-- SAEED AGHABOZORGI
+- Saeed Aghabozorgi
 - Joseph Santarcangelo
 - Romeo Kienzler
 - Alex Aklson
 - Samaya Madhavan
-- JEREMY NILMEIER
+- Jeremy Nilmeier
