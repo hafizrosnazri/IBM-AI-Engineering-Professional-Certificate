@@ -4,7 +4,7 @@
 <p>Syllabus <a href="https://www.coursera.org/professional-certificates/ai-engineer" rel="nofollow">IBM AI Engineering Professional Certificate</a><p>
 <div class="text-blue">
   Candidate's Name: <a href="#" class="text-inherit">MUHAMMAD HAFIZUDDIN BIN ROSNAZRI</a>
-</div>
+</div><p>
 <div class="text-blue">
   Completion Date: <a href="#" class="text-inherit">11 MARCH 2021</a>
 </div>
