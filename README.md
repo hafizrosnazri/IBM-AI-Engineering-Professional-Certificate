@@ -6,5 +6,5 @@
   Candidate's Name: <a href="#" class="text-inherit">MUHAMMAD HAFIZUDDIN BIN ROSNAZRI</a>
 </div><p>
 <div class="text-blue">
-  Completion Date: <a href="#" class="text-inherit">11 MARCH 2021</a>
+  Completion Date: <a href="#" class="text-inherit">11 March 2021</a>
 </div>
