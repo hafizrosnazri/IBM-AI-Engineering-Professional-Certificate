@@ -3,6 +3,6 @@
 <p>Verified by <a href="https://www.ibm.com/training/" rel="nofollow">IBM</a> & <a href="https://cognitiveclass.ai/" rel="nfollow">IBM Cognitve Class</a><p>
 <p>Syllabus <a href="https://www.coursera.org/professional-certificates/ai-engineer" rel="nofollow">IBM AI Engineering Professional Certificate</a><p>
 <div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
+  Candidate's Name: <a href="#" class="text-inherit">MUHAMMAD HAFIZUDDIN BIN ROSNAZRI</a>
 </div>
 <p>Completion Date : 11 March 2021
