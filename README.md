@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
- <img src="Images/Logo/IBM-Logo.png" title="IBM logo" alt = "IBM logo" />
+ <img src="Images/Logo/IBM-Logo.png" width="400" />
 </p>
 
 
