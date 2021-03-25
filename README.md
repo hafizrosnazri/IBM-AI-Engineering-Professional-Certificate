@@ -1,6 +1,6 @@
 # Professional-Certification-IBM-AI-Engineering
 <p align="center">
-  <img width="400" height="200" src="https://github.com/HafizRosnazri/Professional-Certification-IBM-AI-Engineering/blob/master/Images/Logo/Coursera-Logo.png/400/200">
+  <img width="400" height="200" src="https://raw.githubusercontent.com/HafizRosnazri/Professional-Certification-IBM-AI-Engineering/master/Images/Logo/Coursera-Logo.png/400/200">
 </p>
 > This is a ReadMe template to help save you time and effort.
 
