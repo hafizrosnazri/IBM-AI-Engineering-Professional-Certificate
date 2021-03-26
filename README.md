@@ -45,7 +45,7 @@ Throughout the program, you will build a portfolio of projects demonstrating you
  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~MQS9Y39XD664/CERTIFICATE_LANDING_PAGE~MQS9Y39XD664.jpeg" width="400" />
 </p>
 
-**Verify this certificate**: [IBM AI Engineering Professional Certificate Verification](coursera.org/verify/professional-cert/MQS9Y39XD664)
+**Verify this certificate**: [IBM AI Engineering Professional Certificate Verification](https://www.coursera.org/verify/professional-cert/MQS9Y39XD664)
 
 ## Digital Badge                     
 
