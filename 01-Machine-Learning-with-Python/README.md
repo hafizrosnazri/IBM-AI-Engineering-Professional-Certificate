@@ -1,8 +1,8 @@
 # Machine Learning with Python
 ## Part of IBM AI Engineering Professional Certificate
 
-<p align="center">
- <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png?auto=format%2Ccompress&dpr=1&w=120&h=120&q=40" width="400" />
+<p align="left">
+ <img src="https://github.com/HafizRosnazri/IBM-AI-Engineering-Professional-Certificate/raw/master/Images/Logo/IBM-Logo.png" width="400" />
 </p>
 
 
