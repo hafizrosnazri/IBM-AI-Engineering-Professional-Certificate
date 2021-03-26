@@ -46,7 +46,7 @@ If you choose to take this course and earn the Coursera course certificate, you 
  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GE62VHURX8RC/CERTIFICATE_LANDING_PAGE~GE62VHURX8RC.jpeg" width="400" />
 </p>
 
-**Verify this certificate**: [IBM Machine Learning with Python](coursera.org/verify/GE62VHURX8RC)
+**Verify this certificate**: [IBM Machine Learning with Python](https://www.coursera.org/verify/GE62VHURX8RC)
 
 ## Digital Badge                     
 
