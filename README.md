@@ -1,7 +1,5 @@
 # IBM AI Engineering Professional Certificate
 
-<br>
-
 <p align="center">
  <img src="Images/Logo/IBM-Logo.png" width="400" />
 </p>
@@ -43,16 +41,9 @@ Throughout the program, you will build a portfolio of projects demonstrating you
 
 ## Professional Certificate
 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~MQS9Y39XD664/CERTIFICATE_LANDING_PAGE~MQS9Y39XD664.jpeg" alt="View certificate for MUHAMMAD HAFIZUDDIN  ROSNAZRI, IBM AI Engineering, offered through Coursera. Learners who have completed this 6 course Professional Certificate have a practical understanding of Machine Learning (ML) &amp; Deep Learning (DL). They have technical skills to start a career in AI Engineering, and can:
-•	Implement ML algorithms including Classification, Regression, Clustering, and Dimensional Reduction using scipy &amp; scikitlearn
-•	Perform ML on Big Data and deploy ML Algorithms and Pipelines on Apache Spark
-•	Demonstrate understanding of Deep Learning models such as autoencoders, restricted Boltzmann machines,  convolutional networks, recursive neural networks, and recurrent networks
-•	Build deep learning models and neural networks using Keras, PyTorch and Tensorflow libraries
-•	Demonstrate ability to present and communicate outcomes of deep learning projects
-
-
-
-">
+<p align="Left">
+ <img src="Images/Certificates/IBM-AI-Engineering-Professional-Certificate.JPG" width="400" />
+</p>
 
 ## Digital Badge                     
 
