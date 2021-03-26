@@ -43,11 +43,9 @@ Throughout the program, you will build a portfolio of projects demonstrating you
 
 ## Professional Certificate
 
-| Professional Certificate |                   IBM Digital Badge                           |
-|:------------------------:|---------------------------------------------------------------|
-|<p align="left">
+<p align="left">
  <img src="Images/Certificates/IBM-AI-Engineering-Professional-Cerificate.JPG" width="400" />
-</p>|
+</p>
 
                           
 
