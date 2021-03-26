@@ -49,7 +49,7 @@ If you choose to take this course and earn the Coursera course certificate, you 
 
 ## Digital Badge                     
 
-<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/400x400/images/2b609053-f4fe-4171-8739-d9c1955deec4/Professional_Certificate_-_AI_Engineering.png" alt="IBM AI Engineering Professional Certificate" width="400" height="400">
+<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/680x680/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png" alt="IBM AI Engineering Professional Certificate" width="400" height="400">
 
 **Verify this badge**: [IBM AI Engineering Professional Certificate Digital Badge Verification](https://www.youracclaim.com/earner/earned/badge/86cda535-5187-4745-803e-3a5ba4d0fa02)
 
