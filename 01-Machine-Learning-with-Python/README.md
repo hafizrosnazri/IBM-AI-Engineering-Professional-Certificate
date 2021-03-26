@@ -42,7 +42,7 @@ If you choose to take this course and earn the Coursera course certificate, you 
 ## Certificate
 
 <p align="Left">
- <img src="Images/Certificates/01-Machine-Learning-with-Python.JPG" width="400" />
+ <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GE62VHURX8RC/CERTIFICATE_LANDING_PAGE~GE62VHURX8RC.jpeg" width="400" />
 </p>
 
 **Verify this certificate**: [IBM AI Engineering Professional Certificate Verification](coursera.org/verify/professional-cert/MQS9Y39XD664)
