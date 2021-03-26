@@ -39,7 +39,7 @@ If you choose to take this course and earn the Coursera course certificate, you 
 - Saeed Aghabozorgi
 - Joseph Santarcangelo
 
-## Professional Certificate
+## Certificate
 
 <p align="Left">
  <img src="Images/Certificates/IBM-AI-Engineering-Professional-Cerificate.JPG" width="400" />
