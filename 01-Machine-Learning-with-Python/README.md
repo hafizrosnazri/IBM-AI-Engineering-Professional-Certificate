@@ -5,7 +5,7 @@
 </p>
 
 
-## About this course
+## About this syllabus
 
 This course dives into the basics of machine learning using an approachable, and well-known programming language, Python. 
 
