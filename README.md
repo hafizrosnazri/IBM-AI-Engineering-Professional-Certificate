@@ -40,3 +40,11 @@ Throughout the program, you will build a portfolio of projects demonstrating you
 - Alex Aklson
 - Samaya Madhavan
 - Jeremy Nilmeier
+
+## Professional Certificate
+
+<br>
+
+<p align="center">
+ <img src="Images/Certificates/IBM-Logo.png" width="400" />
+</p>
