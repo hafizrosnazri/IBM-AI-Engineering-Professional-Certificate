@@ -1,5 +1,4 @@
-# Machine Learning with Python
-## Part of IBM AI Engineering Professional Certificate
+# Machine Learning with Python (IBM AI Engineering Professional Certificate)
 
 <p align="center">
  <img src="https://github.com/HafizRosnazri/IBM-AI-Engineering-Professional-Certificate/raw/master/Images/Logo/IBM-Logo.png" width="400" />
