@@ -47,10 +47,6 @@ Throughout the program, you will build a portfolio of projects demonstrating you
  <img src="Images/Certificates/IBM-AI-Engineering-Professional-Cerificate.JPG" width="400" />
 </p>
 
-## Digital Badge
+## Digital Badge                     
 
-<p align="left">
- <img src="Images/Certificates/IBM-AI-Engineering-Digital-Badge.JPG" width="400" />
-</p>                          
-
-<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/680x680/images/2b609053-f4fe-4171-8739-d9c1955deec4/Professional_Certificate_-_AI_Engineering.png" alt="IBM AI Engineering Professional Certificate" width="340" height="340">
+<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/400x400/images/2b609053-f4fe-4171-8739-d9c1955deec4/Professional_Certificate_-_AI_Engineering.png" alt="IBM AI Engineering Professional Certificate" width="400" height="400">
