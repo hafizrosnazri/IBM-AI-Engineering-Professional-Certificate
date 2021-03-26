@@ -40,7 +40,7 @@ If you choose to take this course and earn the Coursera course certificate, you 
  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~DX99Z8GRXMQS/CERTIFICATE_LANDING_PAGE~DX99Z8GRXMQS.jpeg" width="400" />
 </p>
 
-**Verify this certificate**: [IBM Deep Neural Networks with PyTorch](http:// coursera.org/verify/DX99Z8GRXMQS)
+**Verify this certificate**: [IBM Deep Neural Networks with PyTorch](http://coursera.org/verify/DX99Z8GRXMQS)
 
 ## Digital Badge                     
 
