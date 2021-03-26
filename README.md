@@ -42,7 +42,7 @@ Throughout the program, you will build a portfolio of projects demonstrating you
 ## Professional Certificate
 
 <p align="Left">
- <img src="Images/Certificates/IBM-AI-Engineering-Professional-Certificate.JPG" width="400" />
+ <img src="Images/Certificates/IBM-AI-Engineering-Professional-Cerificate.JPG" width="400" />
 </p>
 
 ## Digital Badge                     
