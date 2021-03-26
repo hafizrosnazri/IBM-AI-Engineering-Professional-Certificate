@@ -28,7 +28,7 @@ If you choose to take this course and earn the Coursera course certificate, you 
 
 | Week No.| Course                                                        |
 |:-------:|---------------------------------------------------------------|
-|    1    | Intiruction to Machine Learning                               |
+|    1    | Introduction to Machine Learning                               |
 |    2    | Regression                                                    |
 |    3    | Classification                                                |
 |    4    | Clustering                                                    |
@@ -45,11 +45,11 @@ If you choose to take this course and earn the Coursera course certificate, you 
  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GE62VHURX8RC/CERTIFICATE_LANDING_PAGE~GE62VHURX8RC.jpeg" width="400" />
 </p>
 
-**Verify this certificate**: [Machine Learning with Python](coursera.org/verify/GE62VHURX8RC)
+**Verify this certificate**: [IBM Machine Learning with Python](coursera.org/verify/GE62VHURX8RC)
 
 ## Digital Badge                     
 
 <img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/400x400/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png" alt="IBM AI Engineering Professional Certificate" width="400" height="400">
 
-**Verify this badge**: [IBM AI Engineering Professional Certificate Digital Badge Verification](https://www.youracclaim.com/earner/earned/badge/86cda535-5187-4745-803e-3a5ba4d0fa02)
+**Verify this badge**: [IBM Machine Learning with Python](https://www.youracclaim.com/earner/earned/badge/23252460-1395-4208-9ebb-8f9dafeb0607)
 
