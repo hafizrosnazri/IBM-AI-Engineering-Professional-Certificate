@@ -44,7 +44,7 @@ Throughout the program, you will build a portfolio of projects demonstrating you
 ## Professional Certificate
 
 <p align="left">
- <img src="Images/Certificates/IBM-AI-Engineering-Professional-Cerificate.JPG" width="400" />
+ <img src="https://coursera.org/share/8b9985eec78df55bbcfbd50021e62a6b" width="400" />
 </p>
 
 ## Digital Badge                     
