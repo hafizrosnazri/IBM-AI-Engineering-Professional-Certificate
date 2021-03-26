@@ -46,5 +46,5 @@ Throughout the program, you will build a portfolio of projects demonstrating you
 <br>
 
 <p align="center">
- <img src="Images/Certificate/IBM-AI-Engineering-Professional-Cerificate.JPG" width="400" />
+ <img src="Images/Certificates/IBM-AI-Engineering-Professional-Cerificate.JPG" width="400" />
 </p>
