@@ -11,10 +11,11 @@ The majority of data in the world is unlabeled and unstructured. Shallow neural 
 
 Learning Outcomes:
 After completing this course, learners will be able to:
-•	explain foundational TensorFlow concepts such as the main functions, operations and the execution pipelines. 
-•	describe how TensorFlow can be used in curve fitting, regression, classification and minimization of error functions. 
-•	understand different types of Deep Architectures, such as Convolutional Networks, Recurrent Networks and Autoencoders.
-•	apply TensorFlow for backpropagation to tune the weights and biases while the Neural Networks are being trained.
+
+•explain foundational TensorFlow concepts such as the main functions, operations and the execution pipelines. 
+•describe how TensorFlow can be used in curve fitting, regression, classification and minimization of error functions. 
+•understand different types of Deep Architectures, such as Convolutional Networks, Recurrent Networks and Autoencoders.
+•apply TensorFlow for backpropagation to tune the weights and biases while the Neural Networks are being trained.
 
 If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge upon successful completion of the course.
 
