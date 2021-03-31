@@ -26,11 +26,10 @@ If you choose to take this course and earn the Coursera course certificate, you 
 
 | Week No.| Course                                                              |
 |:-------:|---------------------------------------------------------------------|
-|    1    | Introduction                                                        |
-|    2    | Supervised Learning Models                                          |
-|    3    | Supervised Learning Models (Cont'd)                                 |
-|    4    | Unsupervised Deep Learning Models                                   |
-|    5    | Unsupervised Deep Learning Models (Cont'd) and scaling              |
+|    1    | Madule 1 - Loading Data                                             |
+|    2    | Module 2                                                            |
+|    3    | Module 3                                                            |
+|    4    | Module 4                                                            |
 
 
 ## Instructors
