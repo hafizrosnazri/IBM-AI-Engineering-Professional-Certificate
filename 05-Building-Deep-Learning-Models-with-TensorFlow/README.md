@@ -47,7 +47,7 @@ If you choose to take this course and earn the Coursera course certificate, you 
 
 ## Digital Badge                     
 
-<img class="cr-badges-full-badge__img" src=https://images.youracclaim.com/size/680x680/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png" alt="IBM AI Engineering Professional Certificate" width="400" height="400">
+<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/680x680/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png" alt="IBM AI Engineering Professional Certificate" width="400" height="400">
 
 **Verify this badge**: [IBM Building Deep Learning Models with TensorFlow](https://www.youracclaim.com/earner/earned/badge/76fff60c-95ae-4fff-b840-b5d7a596d5a5)
 
