@@ -44,9 +44,6 @@ If you choose to take this course and earn the Coursera course certificate, you 
 
 **Verify this certificate**: [IBM AI Capstone Project with Deep Learning](http://coursera.org/verify/HMH575UB7G7L)
 
-## Digital Badge                     
-
-<img class="cr-badges-full-badge__img" src="https://images.youracclaim.com/size/680x680/images/4e2d2e18-e3ea-408d-b815-819bc58b1143/IBM_AI_-Deep_Learning_with_Tensorflow.png" alt="IBM AI Engineering Professional Certificate" width="400" height="400">
 
 
 
